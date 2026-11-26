@@ -1,1 +1,0 @@
-Write a single deadpan weather forecast line (at most 160 characters) for a fictional city, delivered straight-faced like a TV meteorologist, with a concrete absurd detail that makes the invented place feel real.
